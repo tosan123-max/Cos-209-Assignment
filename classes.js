@@ -8,5 +8,6 @@ class Person{
     }
 }
 //Demo
-const person1 = new Person ("Daniel", 20);
+const person1 = new Person ("Tsolaye", 20);
+
 console.log(person1.greet());
